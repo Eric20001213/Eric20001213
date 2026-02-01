@@ -13,7 +13,7 @@
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt="Eric Jones | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=www.linkedin.com/in/eric-jones-0662b4236 />][linkedin]
 [<img align="left" alt="Eric | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/kvng_spxde
