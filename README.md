@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Eric20001213/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Eric20001213/ticket-life-cycle)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Eric20001213/azure-network-protocols)
 
